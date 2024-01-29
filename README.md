@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Alex! 👋
 
-<!--
-**aalexebr/aalexebr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior backend web developer passionate about creating efficient and scalable web applications. My preferred languages are PHP and Java, and I enjoy working with frameworks like Laravel and Spring.
 
-Here are some ideas to get you started:
+## About Me
+- 💻 Junior Backend Web Developer
+- 🌐 Fluent in PHP and Java
+- 🚀 Currently exploring Spring framework in Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Projects
+- 🌱 [auth-webapp](https://github.com/aalexebr/auth-web-app-laravel): a Laravel Backend for a side project web app including authentication via SPA with middleware for user roles.
+- 🚧 [BoolBnB](https://github.com/aalexebr/final-project-boolbnb-vue): Laravel backend and backoffice for a team project.
+
+## Current Focus
+I'm currently working on [AirTraffic](https://github.com/aalexebr/airport-traffic), a project involving Spring framework in Java. Feel free to check it out and provide feedback!
+
+## Let's Connect!
+- 📫 You can reach me at [alessandro.ebr@gmail.com](mailto:alessandro.ebr@gmail.com)
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/alessandroebreo/)
+
+
+Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out!
