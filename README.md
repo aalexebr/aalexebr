@@ -13,7 +13,7 @@ I'm a junior backend web developer passionate about creating efficient and scala
 
 ## Current Focus
 I'm currently working on [Cryptography](https://github.com/aalexebr/cryptogtraphy-test), a Java project that test and plays with symmetrical and asymmetrical cryptography!
-(given my current position as a Junior Dev for Innovery S.P.A)
+(given my current position as a Junior Dev for Innovery S.P.A.)
 
 ## Let's Connect!
 - 📫 You can reach me at [alessandro.ebr@gmail.com](mailto:alessandro.ebr@gmail.com)
